@@ -1,2 +1,1 @@
-import streamlit as st
-st run main.py
+streamlit run main.py
